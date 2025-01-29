@@ -26,8 +26,8 @@
 ## 📫 How to Reach Me
 
 - 📧 **Email**: [nkscoder@gmail.com](mailto:nkscoder@gmail.com)
-- 🌍 **LinkedIn**: [Nitesh Kumar Singh LinkedIn](https://www.linkedin.com/in/nkscoder/)
-- 🐦 **Twitter**: [@nkscoder](https://twitter.com/nkscoder)
+- 🌍 **LinkedIn**: [Nitesh Kumar Singh LinkedIn](https://www.linkedin.com/in/nitesh-kumar-singh-897437a2/)
+- 🐦 **Twitter**: [@nkscoder](https://twitter.com/@nks_coder)
 
 <!---
 nkscoder/nkscoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
