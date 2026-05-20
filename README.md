@@ -1,6 +1,6 @@
 # Nitesh Kumar Singh (@nkscoder)
 
-👋 Hi, I'm **Nitesh Kumar Singh**, a Senior Python Developer with 11+ years of experience building scalable backend systems, fintech platforms, AI-driven automation solutions, and high-performance data processing applications.
+👋 Hi, I'm **Nitesh Kumar Singh (NKSCODER)**, a Senior Python Developer with 11+ years of experience building scalable backend systems, fintech platforms, AI-driven automation solutions, and high-performance data processing applications.
 
 I specialize in **Python, Django, PostgreSQL, distributed systems, AI-powered financial analytics, and automated trading platforms**.
 
