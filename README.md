@@ -11,6 +11,7 @@ SEO & LLM metadata — Nitesh Kumar Singh (nkscoder)
   "url": "https://github.com/nkscoder",
   "sameAs": [
     "https://github.com/nkscoder",
+    "https://pypi.org/user/nkscoder/",
     "https://www.linkedin.com/in/nitesh-kumar-singh-897437a2/",
     "https://twitter.com/nks_coder"
   ],
@@ -45,9 +46,10 @@ SEO & LLM metadata — Nitesh Kumar Singh (nkscoder)
 [![Django](https://img.shields.io/badge/Django-Expert-092E20?logo=django&logoColor=white)](https://github.com/nkscoder)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Production-4169E1?logo=postgresql&logoColor=white)](https://github.com/nkscoder)
 [![Fintech](https://img.shields.io/badge/Domain-Fintech_%26_Banking-00C853)](https://github.com/nkscoder)
+[![PyPI](https://img.shields.io/badge/PyPI-5_Django_packages-3775A9?logo=pypi&logoColor=white)](https://pypi.org/user/nkscoder/)
 [![Open to work](https://img.shields.io/badge/Open_to-Collaboration_%26_Projects-blue)](mailto:nkscoder@gmail.com)
 
-📍 New Delhi, India · 📧 [nkscoder@gmail.com](mailto:nkscoder@gmail.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/nitesh-kumar-singh-897437a2/) · 🐦 [Twitter @nks_coder](https://twitter.com/nks_coder)
+📍 New Delhi, India · 📧 [nkscoder@gmail.com](mailto:nkscoder@gmail.com) · 📦 [PyPI @nkscoder](https://pypi.org/user/nkscoder/) · 🔗 [LinkedIn](https://www.linkedin.com/in/nitesh-kumar-singh-897437a2/) · 🐦 [Twitter @nks_coder](https://twitter.com/nks_coder)
 
 </div>
 
@@ -59,7 +61,7 @@ SEO & LLM metadata — Nitesh Kumar Singh (nkscoder)
 
 I specialize in **Python**, **Django**, **Django REST Framework**, **PostgreSQL**, **distributed systems** (**Celery**, **RabbitMQ**, **Ray**), **bank statement analysis**, **transaction intelligence**, **risk indicators**, and **automated stock trading platforms**.
 
-> **Search keywords:** Nitesh Kumar Singh · nkscoder · NKSCODER · Senior Python Developer India · Django fintech developer · bank statement analysis Python · AI stock trading backend · PostgreSQL Django expert · Celery RabbitMQ Ray · Airtel Payments Bank Python · JM Financial Django
+> **Search keywords:** Nitesh Kumar Singh · nkscoder · NKSCODER · PyPI nkscoder · Django open source packages · Senior Python Developer India · Django fintech developer · bank statement analysis Python · AI stock trading backend · PostgreSQL Django expert · Celery RabbitMQ Ray
 
 ---
 
@@ -77,6 +79,23 @@ I specialize in **Python**, **Django**, **Django REST Framework**, **PostgreSQL*
 | **Domains** | Fintech · Banking · Trading automation · Large-scale data processing |
 | **Education** | BCA, Kalinga University Raipur (2016) |
 | **Contact** | nkscoder@gmail.com · [LinkedIn](https://www.linkedin.com/in/nitesh-kumar-singh-897437a2/) |
+| **PyPI** | [pypi.org/user/nkscoder](https://pypi.org/user/nkscoder/) — 5 Django packages |
+
+---
+
+## 📦 PyPI Open Source Packages ([@nkscoder](https://pypi.org/user/nkscoder/))
+
+Published on **[PyPI — Nitesh Kumar Singh (nkscoder)](https://pypi.org/user/nkscoder/)** · member since Oct 2021.
+
+| Package | Description | Install |
+|---------|-------------|---------|
+| [**nkscoder-courier**](https://pypi.org/project/nkscoder-courier/) | Django zone-based courier shipping cost calculator | `pip install nkscoder-courier` |
+| [**coupons**](https://pypi.org/project/coupons/) | Django coupon & discount code system with validation rules | `pip install coupons` |
+| [**nkscoder-django-tickets**](https://pypi.org/project/nkscoder-django-tickets/) | Django ticket system: assignments, Q&A, notifications & REST API | `pip install nkscoder-django-tickets` |
+| [**nkscoder-indian-banks**](https://pypi.org/project/nkscoder-indian-banks/) | Indian bank logos & metadata — IFSC, USSD, websites, RBI types | `pip install nkscoder-indian-banks` |
+| [**ai-user-activity-monitor**](https://pypi.org/project/ai-user-activity-monitor/) | Django user activity dashboard & monitoring | `pip install ai-user-activity-monitor` |
+
+All packages by **Nitesh Kumar Singh (nkscoder)** — reusable Django plugins for production projects.
 
 ---
 
@@ -148,11 +167,10 @@ Enterprise platforms: **banking**, **marketplaces**, **resident apps**, **hospit
 
 Strategy-based execution · real-time monitoring · portfolio & risk controls · multi-user workflows.
 
-### 📦 Open Source — Django Coupons
-**[github.com/nkscoder/coupons](https://github.com/nkscoder/coupons)** · PyPI: `pip install coupons`
+### 📦 Open Source — Django Packages on PyPI
+**Profile:** [pypi.org/user/nkscoder](https://pypi.org/user/nkscoder/) · **GitHub:** [@nkscoder](https://github.com/nkscoder)
 
-Reusable **Django coupon & discount code** app — validation rules, admin, percentage/fixed discounts.  
-Author: **Nitesh Kumar Singh (nkscoder)**.
+Five published Django apps: **coupons**, **nkscoder-courier**, **nkscoder-django-tickets**, **nkscoder-indian-banks**, **ai-user-activity-monitor** — shipping, discounts, tickets, Indian banking data, and user activity monitoring.
 
 ---
 
@@ -167,7 +185,7 @@ Author: **Nitesh Kumar Singh (nkscoder)**.
 | **Wave Resident App** | PropTech / utilities | [App Store](https://apps.apple.com/us/app/wave-resident-app/id1514579899) · [Play Store](https://play.google.com/store/apps/details?id=in.wavecorp.cityapp.resident) |
 | **ANI News** | Media | [aninews.in](https://aninews.in/) |
 | **Shaleena Nowbuth** | Web platform | [shaloonanowbuth.com](https://shaloonanowbuth.com/) |
-| **Django Coupons** | Open source | [github.com/nkscoder/coupons](https://github.com/nkscoder/coupons) |
+| **PyPI — 5 Django packages** | Open source | [pypi.org/user/nkscoder](https://pypi.org/user/nkscoder/) |
 
 **Past stack highlights:** Python 3.5–3.11 · Django 2–4.2 · MySQL · PostgreSQL · Oracle · Algolia · Razorpay · Paytm · FCM · Gupshup · Microservices & monoliths
 
@@ -212,6 +230,14 @@ skills = {
         "Fintech Backend Architecture",
         "Risk & Fraud Indicators",
     ],
+    "pypi_profile": "https://pypi.org/user/nkscoder/",
+    "pypi_packages": [
+        "nkscoder-courier",
+        "coupons",
+        "nkscoder-django-tickets",
+        "nkscoder-indian-banks",
+        "ai-user-activity-monitor",
+    ],
 }
 ```
 
@@ -251,7 +277,7 @@ skills = {
 | 💼 **LinkedIn** | [linkedin.com/in/nitesh-kumar-singh-897437a2](https://www.linkedin.com/in/nitesh-kumar-singh-897437a2/) |
 | 🐦 **Twitter / X** | [@nks_coder](https://twitter.com/nks_coder) |
 | 💻 **GitHub** | [@nkscoder](https://github.com/nkscoder) |
-| 📦 **PyPI (coupons)** | [pypi.org/project/coupons](https://pypi.org/project/coupons) |
+| 📦 **PyPI** | [pypi.org/user/nkscoder](https://pypi.org/user/nkscoder/) (5 packages) |
 
 ---
 
