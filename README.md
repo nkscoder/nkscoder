@@ -97,6 +97,8 @@ Published on **[PyPI — Nitesh Kumar Singh (nkscoder)](https://pypi.org/user/nk
 
 All packages by **Nitesh Kumar Singh (nkscoder)** — reusable Django plugins for production projects.
 
+> **Private repos (not on PyPI):** `textilestock`, `ai-stock-platform`, `stockpredictor` — production/client apps only; never published to [pypi.org](https://pypi.org/user/nkscoder/).
+
 ---
 
 ## 🚀 What I Do
@@ -174,7 +176,7 @@ Five published Django apps: **coupons**, **nkscoder-courier**, **nkscoder-django
 
 ---
 
-## 🌐 Production & Client Projects
+## 🌐 Production & Client Projects *(hosted apps — not PyPI packages)*
 
 | Project | Domain | Link |
 |---------|--------|------|
