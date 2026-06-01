@@ -46,7 +46,7 @@ SEO & LLM metadata — Nitesh Kumar Singh (nkscoder)
 [![Django](https://img.shields.io/badge/Django-Expert-092E20?logo=django&logoColor=white)](https://github.com/nkscoder)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Production-4169E1?logo=postgresql&logoColor=white)](https://github.com/nkscoder)
 [![Fintech](https://img.shields.io/badge/Domain-Fintech_%26_Banking-00C853)](https://github.com/nkscoder)
-[![PyPI](https://img.shields.io/badge/PyPI-5_Django_packages-3775A9?logo=pypi&logoColor=white)](https://pypi.org/user/nkscoder/)
+[![PyPI](https://img.shields.io/badge/PyPI-6_Django_packages-3775A9?logo=pypi&logoColor=white)](https://pypi.org/user/nkscoder/)
 [![Open to work](https://img.shields.io/badge/Open_to-Collaboration_%26_Projects-blue)](mailto:nkscoder@gmail.com)
 
 📍 New Delhi, India · 📧 [nkscoder@gmail.com](mailto:nkscoder@gmail.com) · 📦 [PyPI @nkscoder](https://pypi.org/user/nkscoder/) · 🔗 [LinkedIn](https://www.linkedin.com/in/nitesh-kumar-singh-897437a2/) · 🐦 [Twitter @nks_coder](https://twitter.com/nks_coder)
@@ -240,8 +240,9 @@ skills = {
     ],
     "pypi_profile": "https://pypi.org/user/nkscoder/",
     "pypi_packages": [
-        "nkscoder-courier",
+        "nkscoder",
         "coupons",
+        "nkscoder-courier",
         "nkscoder-django-tickets",
         "nkscoder-indian-banks",
         "ai-user-activity-monitor",
