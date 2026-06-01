@@ -79,7 +79,7 @@ I specialize in **Python**, **Django**, **Django REST Framework**, **PostgreSQL*
 | **Domains** | Fintech · Banking · Trading automation · Large-scale data processing |
 | **Education** | BCA, Kalinga University Raipur (2016) |
 | **Contact** | nkscoder@gmail.com · [LinkedIn](https://www.linkedin.com/in/nitesh-kumar-singh-897437a2/) |
-| **PyPI** | [pypi.org/user/nkscoder](https://pypi.org/user/nkscoder/) — 5 Django packages |
+| **PyPI** | [pypi.org/user/nkscoder](https://pypi.org/user/nkscoder/) — 6 Django packages |
 
 ---
 
@@ -87,8 +87,14 @@ I specialize in **Python**, **Django**, **Django REST Framework**, **PostgreSQL*
 
 Published on **[PyPI — Nitesh Kumar Singh (nkscoder)](https://pypi.org/user/nkscoder/)** · member since Oct 2021.
 
+```bash
+pip install nkscoder          # profile index package
+pip install "nkscoder[all]"   # all Django apps below
+```
+
 | Package | Description | Install |
 |---------|-------------|---------|
+| [**nkscoder**](https://pypi.org/project/nkscoder/) | **PyPI profile index** — links to all packages | `pip install nkscoder` |
 | [**nkscoder-courier**](https://pypi.org/project/nkscoder-courier/) | Django zone-based courier shipping cost calculator | `pip install nkscoder-courier` |
 | [**coupons**](https://pypi.org/project/coupons/) | Django coupon & discount code system with validation rules | `pip install coupons` |
 | [**nkscoder-django-tickets**](https://pypi.org/project/nkscoder-django-tickets/) | Django ticket system: assignments, Q&A, notifications & REST API | `pip install nkscoder-django-tickets` |
@@ -172,7 +178,7 @@ Strategy-based execution · real-time monitoring · portfolio & risk controls ·
 ### 📦 Open Source — Django Packages on PyPI
 **Profile:** [pypi.org/user/nkscoder](https://pypi.org/user/nkscoder/) · **GitHub:** [@nkscoder](https://github.com/nkscoder)
 
-Five published Django apps: **coupons**, **nkscoder-courier**, **nkscoder-django-tickets**, **nkscoder-indian-banks**, **ai-user-activity-monitor** — shipping, discounts, tickets, Indian banking data, and user activity monitoring.
+Six published packages: **`nkscoder`** (index), **coupons**, **nkscoder-courier**, **nkscoder-django-tickets**, **nkscoder-indian-banks**, **ai-user-activity-monitor** — shipping, discounts, tickets, Indian banking data, and user activity monitoring.
 
 ---
 
@@ -279,7 +285,7 @@ skills = {
 | 💼 **LinkedIn** | [linkedin.com/in/nitesh-kumar-singh-897437a2](https://www.linkedin.com/in/nitesh-kumar-singh-897437a2/) |
 | 🐦 **Twitter / X** | [@nks_coder](https://twitter.com/nks_coder) |
 | 💻 **GitHub** | [@nkscoder](https://github.com/nkscoder) |
-| 📦 **PyPI** | [pypi.org/user/nkscoder](https://pypi.org/user/nkscoder/) (5 packages) |
+| 📦 **PyPI** | [pypi.org/user/nkscoder](https://pypi.org/user/nkscoder/) · [nkscoder](https://pypi.org/project/nkscoder/) index |
 
 ---
 
