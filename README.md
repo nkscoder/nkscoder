@@ -1,222 +1,270 @@
-# Nitesh Kumar Singh (@nkscoder)
+<!--
+SEO & LLM metadata — Nitesh Kumar Singh (nkscoder)
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Nitesh Kumar Singh",
+  "alternateName": ["NKSCODER", "nkscoder", "nks_coder", "Nitesh Kumar Singh NKSCODER"],
+  "jobTitle": "Senior Python Developer",
+  "description": "Senior Python Developer with 11+ years experience in Django, PostgreSQL, fintech, bank statement analysis, AI trading automation, Celery, RabbitMQ, Ray, and distributed backend systems.",
+  "email": "nkscoder@gmail.com",
+  "url": "https://github.com/nkscoder",
+  "sameAs": [
+    "https://github.com/nkscoder",
+    "https://www.linkedin.com/in/nitesh-kumar-singh-897437a2/",
+    "https://twitter.com/nks_coder"
+  ],
+  "knowsAbout": [
+    "Python", "Django", "Django REST Framework", "PostgreSQL", "FastAPI",
+    "Bank Statement Analysis", "Fintech", "Celery", "RabbitMQ", "Ray", "Pandas",
+    "Automated Stock Trading", "REST APIs", "Docker", "AWS", "Financial Data Processing",
+    "Transaction Intelligence", "Distributed Systems", "AI", "Machine Learning Workflows"
+  ],
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Airtel Payments Bank (via Quess Corp Ltd)"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "New Delhi",
+    "addressCountry": "IN"
+  },
+  "nationality": "Indian"
+}
+-->
 
-👋 Hi, I'm **Nitesh Kumar Singh (NKSCODER)**, a Senior Python Developer with 11+ years of experience building scalable backend systems, fintech platforms, AI-driven automation solutions, and high-performance data processing applications.
+<div align="center">
 
-I specialize in **Python, Django, PostgreSQL, distributed systems, AI-powered financial analytics, and automated trading platforms**.
+# Nitesh Kumar Singh
+
+### Senior Python Developer · Fintech · Bank Statement Analysis · AI Trading Automation
+
+**GitHub:** [@nkscoder](https://github.com/nkscoder) · **Also known as:** NKSCODER · nks_coder
+
+[![Python](https://img.shields.io/badge/Python-11%2B_years-3776AB?logo=python&logoColor=white)](https://github.com/nkscoder)
+[![Django](https://img.shields.io/badge/Django-Expert-092E20?logo=django&logoColor=white)](https://github.com/nkscoder)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Production-4169E1?logo=postgresql&logoColor=white)](https://github.com/nkscoder)
+[![Fintech](https://img.shields.io/badge/Domain-Fintech_%26_Banking-00C853)](https://github.com/nkscoder)
+[![Open to work](https://img.shields.io/badge/Open_to-Collaboration_%26_Projects-blue)](mailto:nkscoder@gmail.com)
+
+📍 New Delhi, India · 📧 [nkscoder@gmail.com](mailto:nkscoder@gmail.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/nitesh-kumar-singh-897437a2/) · 🐦 [Twitter @nks_coder](https://twitter.com/nks_coder)
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 👋 About Nitesh Kumar Singh (NKSCODER)
 
-- 🔧 **Core Technologies**: Python, Django, PostgreSQL, FastAPI, REST APIs, Docker, RabbitMQ, Ray, Celery
-- 💻 **Experience**: 11+ years in backend engineering, fintech systems, banking solutions, and scalable architectures
-- 🤖 **Current Focus**:
-  - AI-powered Bank Statement Analysis
-  - Automated Stock Trading Systems
-  - Financial Data Intelligence & Risk Analysis
-  - Distributed Processing & Workflow Automation
-- 📈 **Domain Expertise**:
-  - Banking & Fintech Platforms
-  - Transaction Intelligence
-  - Large-Scale Data Processing
-  - Trading Automation
-- 🌱 Exploring modern AI workflows, distributed computing, and intelligent financial systems
-- 🎯 Open to collaborating on innovative AI, fintech, and backend engineering projects
+**Nitesh Kumar Singh** ([@nkscoder](https://github.com/nkscoder)) is a **Senior Python Developer** with **11+ years** of experience building **scalable backend systems**, **fintech platforms**, **AI-driven automation**, and **high-performance financial data pipelines**.
+
+I specialize in **Python**, **Django**, **Django REST Framework**, **PostgreSQL**, **distributed systems** (**Celery**, **RabbitMQ**, **Ray**), **bank statement analysis**, **transaction intelligence**, **risk indicators**, and **automated stock trading platforms**.
+
+> **Search keywords:** Nitesh Kumar Singh · nkscoder · NKSCODER · Senior Python Developer India · Django fintech developer · bank statement analysis Python · AI stock trading backend · PostgreSQL Django expert · Celery RabbitMQ Ray · Airtel Payments Bank Python · JM Financial Django
 
 ---
 
-## 📚 What I Do
+## 🎯 Quick Summary (for recruiters, search & AI)
+
+| | |
+|---|---|
+| **Name** | Nitesh Kumar Singh |
+| **Username** | [@nkscoder](https://github.com/nkscoder) (NKSCODER) |
+| **Role** | Senior Python Developer |
+| **Experience** | 11+ years (since 2016) |
+| **Location** | New Delhi, India |
+| **Current** | Airtel Payments Bank — bank statement analysis & financial data pipelines |
+| **Core stack** | Python · Django · DRF · PostgreSQL · Pandas · Celery · RabbitMQ · Ray · Docker · AWS |
+| **Domains** | Fintech · Banking · Trading automation · Large-scale data processing |
+| **Education** | BCA, Kalinga University Raipur (2016) |
+| **Contact** | nkscoder@gmail.com · [LinkedIn](https://www.linkedin.com/in/nitesh-kumar-singh-897437a2/) |
+
+---
+
+## 🚀 What I Do
 
 ### 🏦 Bank Statement Analysis & Financial Intelligence
-- Building scalable systems for parsing and analyzing bank statements (PDF/CSV/XML)
-- Transaction categorization, risk indicators, and anomaly detection
-- Party extraction, normalization, and deduplication
-- High-volume financial data pipelines using Python, Pandas, Ray, and RabbitMQ
+- Large-scale **bank statement ingestion** (PDF / CSV / XML) and validation
+- **Transaction categorization**, **risk indicators**, **anomaly detection**, fraud flags
+- **Party extraction**, normalization, deduplication & entity resolution
+- Distributed pipelines: **Python**, **Pandas**, **Ray**, **RabbitMQ**, **Celery**, **PostgreSQL**
 
-### 🤖 AI-Based Auto Stock Trading Systems
-- Developing intelligent automated trading platforms
-- Real-time market data processing and strategy execution
-- Risk management and signal generation systems
-- Trading automation using Python, APIs, schedulers, and distributed workers
+### 🤖 AI-Based Automated Stock Trading
+- **Automated trading platforms** with strategy execution & schedulers
+- Real-time market data, signals, portfolio & **risk management**
+- Multi-user trading workflows · WebSockets · REST APIs
 
-### ⚙️ Backend Development
-- Designing scalable backend architectures using Python & Django
-- REST APIs, authentication systems, async task processing
-- Distributed systems with Celery, RabbitMQ, and Ray
-- High-performance microservices and monolithic applications
+### ⚙️ Backend & Distributed Systems
+- **Django** / **DRF** / **FastAPI** — REST APIs, RBAC, authentication
+- **Monolithic** and **microservices** architectures at scale
+- Async jobs, retries, back-pressure, worker scaling (CPU/GPU with Ray)
 
-### 🗄️ Database & Performance Engineering
-- PostgreSQL schema optimization and query tuning
-- Handling high-throughput transactional systems
-- Large-scale data ingestion and analytics pipelines
-
-### 🚀 DevOps & Deployment
-- Dockerized deployments
-- Linux server management
-- CI/CD pipelines
-- Monitoring, logging, and production optimization
-
----
-
-## 🔧 Technologies & Tools
-
-### Backend & APIs
-- Python
-- Django
-- Django REST Framework
-- FastAPI
-- GraphQL
-- REST APIs
-
-### Databases
-- PostgreSQL
-- MySQL
-- Oracle
-
-### Distributed & Async Processing
-- Celery
-- RabbitMQ
-- Ray
-- Pandas
-
-### DevOps & Cloud
-- Docker
-- AWS EC2
-- Linux
-- Jenkins
-- GKE (Google Kubernetes Engine)
-
-### Search & Messaging
-- Elasticsearch
-- Algolia
-- Firebase Cloud Messaging (FCM)
-
-### Frontend & Others
-- JavaScript
-- Node.js
-- jQuery
-- HTML
-- WordPress
-- Magento
+### 🗄️ Database & DevOps
+- **PostgreSQL** schema design, indexing, query tuning, high-throughput OLTP
+- **Docker**, **Linux**, **CI/CD** (Jenkins), **AWS EC2**, **GKE**
+- Logging, monitoring, production reliability
 
 ---
 
 ## 🏢 Professional Experience
 
-### Senior Python Developer — Airtel Payments Bank (via Quess Corp Ltd)
-**Feb 2025 – Present | New Delhi**
+### Senior Python Developer — Airtel Payments Bank *(via Quess Corp Ltd)*
+**Feb 2025 – Present · New Delhi**
 
-- Building large-scale bank statement analysis systems
-- Designing distributed financial data pipelines
-- Implementing transaction intelligence and risk indicators
-- Developing scalable backend services using Django & PostgreSQL
-- Managing async workflows using Celery, RabbitMQ, and Ray
+- Large-scale **bank statement analysis** and financial data processing
+- Distributed ingestion with **Python**, **Pandas**, **Ray**, **RabbitMQ**
+- Transaction intelligence, risk rules, party categorization & compliance workflows
+- **Django** / **DRF** APIs, **PostgreSQL**, **Celery** background jobs
+- **Docker**, CI/CD, Linux production deployments
 
-### Senior Python Developer — JM Financial (Voxturr Consulting)
-**Apr 2023 – Feb 2025**
+### Senior Python Developer — JM Financial *(Voxturr Consulting Pvt. Ltd.)*
+**Apr 2023 – Feb 2025 · Gurugram**
 
-- Developed fintech and investment banking applications
-- Built REST APIs and reporting systems
-- Worked on high-volume financial applications
-- Implemented secure authentication and RBAC systems
+- Fintech & **investment banking** applications (Python 3.11, Django 4.2)
+- REST APIs, **Jinja2** reports, **PostgreSQL** optimization
+- Authentication, **RBAC**, third-party integrations, UAT & releases
+- **Bitbucket**, **Jira**, Linux deployments
 
-### Python Developer — Scaledesk Web Studio
+### Python Developer — Scaledesk Web Studio Pvt. Ltd.
 **Jun 2016 – Mar 2023**
 
-Worked on multiple enterprise platforms including:
-- Banking applications
-- Marketplace systems
-- Resident management systems
-- Hospitality and booking platforms
-- Payment gateway integrations
+Enterprise platforms: **banking**, **marketplaces**, **resident apps**, **hospitality**, **payment gateways** — Ujjivan Bank, goSTOPS, Wave Resident App, Textile Stock India, and more.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects & Deliverables
 
 ### 🏦 AI-Powered Bank Statement Analysis Platform
-**Tech Stack:** Python, Django, PostgreSQL, Pandas, Celery, RabbitMQ, Ray
+**Python · Django · PostgreSQL · Pandas · Celery · RabbitMQ · Ray · Docker**
 
-- Large-scale bank statement ingestion & processing
-- AI-assisted transaction analysis and categorization
-- Risk detection and fraud indicators
-- Distributed financial computation pipelines
-- Async and fault-tolerant architecture
+| Capability | Detail |
+|------------|--------|
+| Ingestion | PDF / CSV / XML bank statements at scale |
+| Intelligence | Risk flags, fraud indicators, transaction rules |
+| Architecture | Celery (I/O & orchestration) + Ray (CPU/GPU batch) |
+| Data | Party deduplication, normalization, audit trails |
 
 ### 📈 Automated Stock Trading Platform
-**Tech Stack:** Python, Django, PostgreSQL, APIs, Scheduler, WebSockets
+**Python · Django · PostgreSQL · APIs · WebSockets · Schedulers**
 
-- Automated trade execution systems
-- Strategy-based trading automation
-- Real-time market monitoring
-- Portfolio and risk management
-- Multi-user trading workflows
+Strategy-based execution · real-time monitoring · portfolio & risk controls · multi-user workflows.
+
+### 📦 Open Source — Django Coupons
+**[github.com/nkscoder/coupons](https://github.com/nkscoder/coupons)** · PyPI: `pip install coupons`
+
+Reusable **Django coupon & discount code** app — validation rules, admin, percentage/fixed discounts.  
+Author: **Nitesh Kumar Singh (nkscoder)**.
 
 ---
 
-## 🔧 Core Skills
+## 🌐 Production & Client Projects
+
+| Project | Domain | Link |
+|---------|--------|------|
+| **Angel One Smart Money** | Fintech / Trading | [smartmoney.angelone.in](https://smartmoney.angelone.in/) |
+| **JM Financial** | Investment banking | [jm-me.voxturt.us](https://jm-me.voxturt.us/) |
+| **Textile Stock India** | B2B marketplace | [textilestockindia.com](http://textilestockindia.com/) |
+| **goSTOPS** | Hospitality / hostels | [gostops.com](https://gostops.com/) |
+| **Wave Resident App** | PropTech / utilities | [App Store](https://apps.apple.com/us/app/wave-resident-app/id1514579899) · [Play Store](https://play.google.com/store/apps/details?id=in.wavecorp.cityapp.resident) |
+| **ANI News** | Media | [aninews.in](https://aninews.in/) |
+| **Shaleena Nowbuth** | Web platform | [shaloonanowbuth.com](https://shaloonanowbuth.com/) |
+| **Django Coupons** | Open source | [github.com/nkscoder/coupons](https://github.com/nkscoder/coupons) |
+
+**Past stack highlights:** Python 3.5–3.11 · Django 2–4.2 · MySQL · PostgreSQL · Oracle · Algolia · Razorpay · Paytm · FCM · Gupshup · Microservices & monoliths
+
+---
+
+## 🔧 Technologies & Tools
+
+<details>
+<summary><b>Click to expand full tech stack</b></summary>
+
+| Category | Technologies |
+|----------|----------------|
+| **Languages** | Python, JavaScript, SQL, PHP |
+| **Backend** | Django, Django REST Framework, FastAPI, GraphQL, Node.js, Laravel |
+| **Databases** | PostgreSQL, MySQL, Oracle |
+| **Data & async** | Pandas, Celery, RabbitMQ, Ray |
+| **Search & messaging** | Elasticsearch, Algolia, Firebase FCM |
+| **DevOps & cloud** | Docker, AWS EC2, GKE, Linux, CentOS, Jenkins, CI/CD |
+| **Tools** | Git, GitHub, Bitbucket, Postman, Jira |
+| **Frontend & CMS** | HTML, jQuery, WordPress, Magento 2 |
+| **Payments & comms** | Razorpay, Paytm, Gupshup (WhatsApp/SMS), IVR integrations |
+
+</details>
 
 ```python
+# Machine-readable skills — Nitesh Kumar Singh @nkscoder
 skills = {
-    "languages": [
-        "Python",
-        "JavaScript",
-        "SQL"
-    ],
-    "backend": [
-        "Django",
-        "Django REST Framework",
-        "FastAPI",
-        "Node.js"
-    ],
-    "databases": [
-        "PostgreSQL",
-        "MySQL",
-        "Oracle"
-    ],
-    "distributed_systems": [
-        "Celery",
-        "RabbitMQ",
-        "Ray"
-    ],
-    "devops": [
-        "Docker",
-        "AWS",
-        "Linux",
-        "Jenkins",
-        "CI/CD"
-    ],
+    "author": "Nitesh Kumar Singh",
+    "github": "nkscoder",
+    "role": "Senior Python Developer",
+    "years_experience": 11,
+    "languages": ["Python", "JavaScript", "SQL"],
+    "backend": ["Django", "Django REST Framework", "FastAPI", "GraphQL"],
+    "databases": ["PostgreSQL", "MySQL", "Oracle"],
+    "distributed": ["Celery", "RabbitMQ", "Ray", "Pandas"],
+    "devops": ["Docker", "AWS EC2", "GKE", "Linux", "Jenkins", "CI/CD"],
     "specialization": [
         "Bank Statement Analysis",
         "Financial Data Processing",
         "AI Trading Automation",
         "Transaction Intelligence",
-        "Backend Architecture"
-    ]
+        "Fintech Backend Architecture",
+        "Risk & Fraud Indicators",
+    ],
 }
 ```
 
 ---
 
-## 📫 Connect With Me
+## 🎓 Education & Certification
 
-- 📧 **Email:** nkscoder@gmail.com
-- 🌍 **LinkedIn:** https://www.linkedin.com/in/nitesh-kumar-singh-897437a2/
-- 🐦 **Twitter/X:** https://twitter.com/nks_coder
-- 💻 **GitHub:** https://github.com/nkscoder
+| Level | Institution | Year |
+|-------|-------------|------|
+| **BCA** | Kalinga University, Raipur | 2016 |
+| **12th** | B.N. College, Bhagalpur (B.S.E. Board Bihar) | — |
+| **10th** | SGG High School, Banka (B.S.E. Board Bihar) | — |
+
+**Certification:** Java 2 Platform, Enterprise Edition (J2EE)
+
+**Languages:** English · Hindi
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nkscoder&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/nkscoder)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nkscoder&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/nkscoder)
+
+</div>
+
+---
+
+## 📫 Connect With Nitesh Kumar Singh
+
+| Channel | Link |
+|---------|------|
+| 📧 **Email** | [nkscoder@gmail.com](mailto:nkscoder@gmail.com) |
+| 💼 **LinkedIn** | [linkedin.com/in/nitesh-kumar-singh-897437a2](https://www.linkedin.com/in/nitesh-kumar-singh-897437a2/) |
+| 🐦 **Twitter / X** | [@nks_coder](https://twitter.com/nks_coder) |
+| 💻 **GitHub** | [@nkscoder](https://github.com/nkscoder) |
+| 📦 **PyPI (coupons)** | [pypi.org/project/coupons](https://pypi.org/project/coupons) |
 
 ---
 
 ## 💡 Interests
 
-- Artificial Intelligence
-- Financial Technology
-- Trading Automation
-- Distributed Systems
-- Scalable Backend Architectures
-- System Design
-- Performance Optimization
+Artificial Intelligence · Financial Technology · Trading Automation · Distributed Systems · System Design · Performance Optimization · Backend Architecture
 
 ---
 
-⭐ Always exploring new technologies, solving complex backend challenges, and building intelligent automation systems.
+<div align="center">
+
+⭐ **Nitesh Kumar Singh (NKSCODER)** — building intelligent fintech backends, financial data platforms, and automation systems with Python & Django.
+
+*Profile optimized for discovery by recruiters, search engines, and AI assistants.*
+
+</div>
