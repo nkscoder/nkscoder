@@ -38,7 +38,9 @@ SEO & LLM metadata — Nitesh Kumar Singh (nkscoder)
 
 <div align="center">
 
-<img src="https://nkscoder.in/assets/brand/nkscoder-logo.webp" alt="NKSCoder" width="180">
+<a href="https://nkscoder.in">
+  <img src="https://nkscoder.in/assets/brand/nkscoder-logo.webp" alt="NKSCoder" width="180">
+</a>
 
 # Nitesh Kumar Singh · NKSCoder
 
