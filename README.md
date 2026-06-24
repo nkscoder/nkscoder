@@ -38,11 +38,11 @@ SEO & LLM metadata — Nitesh Kumar Singh (nkscoder)
 
 <div align="center">
 
-<a href="https://nkscoder.in">
+<a href="https://nkscoder.in" target="_blank" rel="noopener noreferrer">
   <img src="https://nkscoder.in/assets/brand/nkscoder-logo.webp" alt="NKSCoder" width="180">
 </a>
 
-# [Nitesh Kumar Singh · NKSCoder](https://nkscoder.in)
+<h1><a href="https://nkscoder.in" target="_blank" rel="noopener noreferrer">Nitesh Kumar Singh · NKSCoder</a></h1>
 
 ### AI Developer for Banking & Fintech
 **NVIDIA GPU · Ollama · LangGraph · FastAPI · CIBIL · Bank Statement Analysis**
