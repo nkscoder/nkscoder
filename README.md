@@ -38,21 +38,25 @@ SEO & LLM metadata — Nitesh Kumar Singh (nkscoder)
 
 <div align="center">
 
-# Nitesh Kumar Singh
+<img src="https://nkscoder.in/assets/brand/nkscoder-logo.webp" alt="NKSCoder" width="180">
 
-### AI Developer for Banking · NVIDIA GPU · Ollama · LangGraph · FastAPI
+# Nitesh Kumar Singh · NKSCoder
+
+### AI Developer for Banking & Fintech
+**NVIDIA GPU · Ollama · LangGraph · FastAPI · CIBIL · Bank Statement Analysis**
 
 **GitHub:** [@nkscoder](https://github.com/nkscoder) · **Portfolio:** [nkscoder.in](https://nkscoder.in) · **Also known as:** NKSCODER · nks_coder
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-nkscoder.in-6366f1)](https://nkscoder.in)
+[![NVIDIA GPU](https://img.shields.io/badge/NVIDIA_GPU-76B900?logo=nvidia&logoColor=white)](https://nkscoder.in/blog/bank-statement-analysis-ollama-gpu.html)
+[![Ollama](https://img.shields.io/badge/Ollama-Local_LLM-000000)](https://nkscoder.in/blog/what-is-ollama-local-ai.html)
+[![LangGraph](https://img.shields.io/badge/LangGraph-6366f1)](https://nkscoder.in/blog/bank-statement-nbfc-part-2-ai-reports.html)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)](https://nkscoder.in/blog/bank-statement-nbfc-part-1-platform-parsing.html)
 [![Python](https://img.shields.io/badge/Python-11%2B_years-3776AB?logo=python&logoColor=white)](https://github.com/nkscoder)
-[![AI Banking](https://img.shields.io/badge/AI-Bank_Statement_&_NBFC-22d3ee)](https://nkscoder.in/blog/)
-[![Django](https://img.shields.io/badge/Django-Expert-092E20?logo=django&logoColor=white)](https://github.com/nkscoder)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Production-4169E1?logo=postgresql&logoColor=white)](https://github.com/nkscoder)
 [![PyPI](https://img.shields.io/badge/PyPI-7_Django_packages-3775A9?logo=pypi&logoColor=white)](https://pypi.org/user/nkscoder/)
 [![Open to work](https://img.shields.io/badge/Open_to-Collaboration_%26_Projects-blue)](mailto:nkscoder@gmail.com)
 
-📍 New Delhi, India · 🌐 [nkscoder.in](https://nkscoder.in) · 📧 [nkscoder@gmail.com](mailto:nkscoder@gmail.com) · 📦 [PyPI @nkscoder](https://pypi.org/user/nkscoder/) · 🔗 [LinkedIn](https://www.linkedin.com/in/nitesh-kumar-singh-897437a2/) · 🐦 [Twitter @nks_coder](https://twitter.com/nks_coder)
+📍 New Delhi, India · 🌐 [nkscoder.in](https://nkscoder.in) · 📧 [nkscoder@gmail.com](mailto:nkscoder@gmail.com) · 📱 +91 7827495599 · 📦 [PyPI @nkscoder](https://pypi.org/user/nkscoder/) · 🔗 [LinkedIn](https://www.linkedin.com/in/nitesh-kumar-singh-897437a2/) · 🐦 [Twitter @nks_coder](https://twitter.com/nks_coder)
 
 </div>
 
@@ -72,11 +76,12 @@ I specialize in **NVIDIA GPU + Ollama**, **LangGraph**, **FastAPI**, **Django**,
 
 | | |
 |---|---|
-| **Portfolio** | [nkscoder.in](https://nkscoder.in) |
+| **Portfolio** | [nkscoder.in](https://nkscoder.in) · [Source — nkscoder.github.io](https://github.com/nkscoder/nkscoder.github.io) |
 | **Blog** | [nkscoder.in/blog](https://nkscoder.in/blog/) |
 | **NBFC Platform — Part 1** | [Parsing & multi-bank PDF](https://nkscoder.in/blog/bank-statement-nbfc-part-1-platform-parsing.html) |
 | **NBFC Platform — Part 2** | [LangGraph AI, CIBIL & reports](https://nkscoder.in/blog/bank-statement-nbfc-part-2-ai-reports.html) |
 | **Production GPU** | [NVIDIA GPU + Ollama at Airtel](https://nkscoder.in/blog/bank-statement-analysis-ollama-gpu.html) |
+| **Ray in LLM pipelines** | [Article](https://nkscoder.in/blog/ray-role-in-llm-pipelines.html) |
 
 ---
 
@@ -94,8 +99,18 @@ I specialize in **NVIDIA GPU + Ollama**, **LangGraph**, **FastAPI**, **Django**,
 | **Core stack** | Python · FastAPI · Django · LangGraph · Ollama · NVIDIA GPU · PostgreSQL · Ray · Celery |
 | **Domains** | NBFC underwriting · Bank statement analysis · CIBIL · Loan eligibility · Fintech SaaS |
 | **Education** | BCA, Kalinga University Raipur (2016) |
-| **Contact** | nkscoder@gmail.com · [LinkedIn](https://www.linkedin.com/in/nitesh-kumar-singh-897437a2/) |
+| **Contact** | nkscoder@gmail.com · +91 7827495599 · [LinkedIn](https://www.linkedin.com/in/nitesh-kumar-singh-897437a2/) |
 | **PyPI** | [pypi.org/user/nkscoder](https://pypi.org/user/nkscoder/) — 7 Django packages |
+
+---
+
+## 🛠 What I build
+
+- **Bank statement analysis** — HDFC, SBI, ICICI, Axis, Kotak PDF/Excel parsing, OCR, bulk upload
+- **NBFC underwriting** — loan eligibility, CIBIL integration, fraud/EMI/salary/bounce detection
+- **AI & LLM** — NVIDIA GPU, CUDA, Ollama, LangGraph, LangChain, Qdrant RAG, Hinglish chat
+- **Fintech backends** — FastAPI, Django, Next.js, PostgreSQL, Celery, RabbitMQ, Ray
+- **Open source** — 7 Django packages on [PyPI @nkscoder](https://pypi.org/user/nkscoder/)
 
 ---
 
@@ -203,7 +218,7 @@ Seven published packages: **`nkscoder`** (index), **coupons**, **nkscoder-courie
 
 | Project | Domain | Link |
 |---------|--------|------|
-| **NKSCoder Portfolio** | AI Developer / Fintech | [nkscoder.in](https://nkscoder.in) |
+| **NKSCoder Portfolio** | AI Developer / Fintech | [nkscoder.in](https://nkscoder.in) · [GitHub Pages repo](https://github.com/nkscoder/nkscoder.github.io) |
 | **Angel One Smart Money** | Fintech / Trading | [smartmoney.angelone.in](https://smartmoney.angelone.in/) |
 | **JM Financial** | Investment banking | [jm-me.voxturt.us](https://jm-me.voxturt.us/) |
 | **Textile Stock India** | B2B marketplace | [textilestockindia.com](http://textilestockindia.com/) |
@@ -224,11 +239,11 @@ Seven published packages: **`nkscoder`** (index), **coupons**, **nkscoder-courie
 
 | Category | Technologies |
 |----------|----------------|
+| **AI & GPU** | NVIDIA GPU, CUDA, Ollama, LangGraph, LangChain, Qdrant, Ray |
 | **Languages** | Python, JavaScript, SQL, PHP |
-| **AI & LLM** | Ollama, LangGraph, LangChain, NVIDIA GPU, CUDA, Qdrant RAG, Prompt Engineering |
-| **Backend** | Django, Django REST Framework, FastAPI, Next.js, GraphQL, Node.js, Laravel |
+| **Backend** | Django, Django REST Framework, FastAPI, Next.js, GraphQL, Node.js |
 | **Databases** | PostgreSQL, MySQL, Oracle |
-| **Data & async** | Pandas, Celery, RabbitMQ, Ray |
+| **Data & async** | Pandas, Celery, RabbitMQ, Ray, pdfplumber, PyMuPDF |
 | **Search & messaging** | Elasticsearch, Algolia, Firebase FCM |
 | **DevOps & cloud** | Docker, AWS EC2, GKE, Linux, CentOS, Jenkins, CI/CD |
 | **Tools** | Git, GitHub, Bitbucket, Postman, Jira |
