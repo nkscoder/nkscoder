@@ -39,7 +39,7 @@ SEO & LLM metadata — Nitesh Kumar Singh (nkscoder)
 <div align="center">
 
 <a href="https://nkscoder.in" target="_blank" rel="noopener noreferrer">
-  <img src="https://nkscoder.in/assets/brand/nkscoder-logo.webp" alt="NKSCoder" width="180">
+  <img src="https://nkscoder.in/assets/brand/nkscoder-logo.webp?v=2" alt="NKSCoder logo — AI Developer for Banking" width="180">
 </a>
 
 <h1><a href="https://nkscoder.in" target="_blank" rel="noopener noreferrer">Nitesh Kumar Singh · NKSCoder</a></h1>
@@ -222,12 +222,11 @@ Seven published packages: **`nkscoder`** (index), **coupons**, **nkscoder-courie
 |---------|--------|------|
 | **NKSCoder Portfolio** | AI Developer / Fintech | [nkscoder.in](https://nkscoder.in) · [GitHub Pages repo](https://github.com/nkscoder/nkscoder.github.io) |
 | **Angel One Smart Money** | Fintech / Trading | [smartmoney.angelone.in](https://smartmoney.angelone.in/) |
-| **JM Financial** | Investment banking | [jm-me.voxturt.us](https://jm-me.voxturt.us/) |
+| **JM Financial** | Investment banking | [jmfl.com](https://www.jmfl.com/) |
 | **Textile Stock India** | B2B marketplace | [textilestockindia.com](http://textilestockindia.com/) |
 | **goSTOPS** | Hospitality / hostels | [gostops.com](https://gostops.com/) |
 | **Wave Resident App** | PropTech / utilities | [App Store](https://apps.apple.com/us/app/wave-resident-app/id1514579899) · [Play Store](https://play.google.com/store/apps/details?id=in.wavecorp.cityapp.resident) |
 | **ANI News** | Media | [aninews.in](https://aninews.in/) |
-| **Shaleena Nowbuth** | Web platform | [shaloonanowbuth.com](https://shaloonanowbuth.com/) |
 | **PyPI — 7 Django packages** | Open source | [pypi.org/user/nkscoder](https://pypi.org/user/nkscoder/) |
 
 **Past stack highlights:** Python 3.5–3.11 · Django 2–4.2 · MySQL · PostgreSQL · Oracle · Algolia · Razorpay · Paytm · FCM · Gupshup · Microservices & monoliths
